@@ -1,11 +1,11 @@
 * {
-    margin: 50%;
-    padding: 40%;
+    margin: 0%;
+    padding: 0%;
     }
     
     .cabeçalho{
-    background-color: rgb(225, 77, 77);
-    color: rgba(440, 202, 24, 0.951);
+    background-color: lemonchiffon;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -31,3 +31,13 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    }
+    
+    .titulo_apresentaçao_trabalho{
+    font-size: 30px;
+    }
+    
+    .imagem_arvore{
+    width: 15%;
+    }
+    
