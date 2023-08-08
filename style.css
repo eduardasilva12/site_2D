@@ -24,6 +24,14 @@
     margin: 25px 0px 25px 0px;
     font-size: 16px;
     }
+
+    a
+    .corpo {
+
+    background-image: linear-gradient(lemonchiffon, #dd371a);
+    
+    }
+
     
     .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
