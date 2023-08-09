@@ -24,6 +24,5 @@
 </section>
 <img class="imagem_arvore" src="arvore.png" alt="Imagem de árvore de pimenta">
 </section>
-
 </body>
 </html>
