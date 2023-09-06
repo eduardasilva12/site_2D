@@ -4,7 +4,7 @@
 }
     
     .cabeçalho{
-    background-color:rgb(221, 97, 97) rgb(211, 108, 108);
+    background-image: linear-gradient(rgb(248, 109, 109), #f3725b);
     color: black;
     display: flex;
     justify-content: space-around;
