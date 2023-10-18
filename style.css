@@ -22,7 +22,7 @@
     
     .cabeçalho_lista_item{
     margin: 258px 0px 25px 0px;
-    font-size: 16px;
+    font-size:Qual é o benefício da pimenta biquinho? considerada um bom antioxidante, ajuda o sistema imunológico, ajuda a  16px;
     }
     
     .apresentaçao_trabalho{
@@ -41,7 +41,9 @@
     width: 15%;
     }
     
-    
+    .pagina2{
+        background-color: aqua;
+    }
 
 
     }
